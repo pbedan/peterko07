@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @peterko07
+- 👀 I’m interested in fullstack web development
+- 🌱 I’m currently learning HTML, CSS, Javascript for frontend and backend
+- 📫 How to reach me ...
